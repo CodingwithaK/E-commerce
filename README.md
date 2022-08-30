@@ -1,0 +1,1 @@
+This is a Bootstrap React E-commerce Website. The DB is my SQL and will run using cloud storage S3 for images and run on AWS.
